@@ -1,4 +1,4 @@
-target.py is the target probabilistic program we try to do the inverse inference for its input based on the given/observed output distribution. It also includes codes in the end of file export the computation graph as a proto file "myGraph.meta". "myGraph.txt" is a human-readable format describing graph structure in json.
+target.py is the target probabilistic program we try to do the inverse inference for its input based on the given/observed output distribution. It also includes codes in the end of file exporting the computation graph as a proto file "myGraph.meta". "myGraph.txt" is a human-readable format describing graph structure in json syntax.
 
 Running instruction:
 1. python target.py
