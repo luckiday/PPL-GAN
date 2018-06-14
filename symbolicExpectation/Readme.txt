@@ -2,7 +2,7 @@ target.py is the target probabilistic program we try to do the inverse inference
 
 Running instruction:
 1. python target.py
-2. python parse.py
+2. python parse.py myGraph.meta
 
 Example:
 x1 := Bernoulli(prob)
